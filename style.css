@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+.container {
+    min-height: 100vh;
+    background: #f0f2f5;
+    padding: 0 15px;
+}
+
+.facebook-page{
+    max-width: 1000px;
+    width: 100%;
+}
+
+.facebook-page h1{
+    font-size: 4rem;
+    color: #1877f2;
+    margin-bottom: 10px;
+}
+
+.facebook-page p{
+    font-size: 1.75rem;
+}
